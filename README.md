@@ -6,7 +6,7 @@ Passionate about building **intelligent systems, scalable software, and data-dri
 
 # About Me
 
-* 🎓 Computer Science student
+* 🎓 Information Technology student
 * 🧠 Focused on **AI, Machine Learning, and Data Science**
 * ⚙️ Strong foundation in **Data Structures & Algorithms**
 * 🚀 Building real-world projects combining **AI systems and scalable software**

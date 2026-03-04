@@ -112,11 +112,11 @@ React • Spring Boot • Java • PostgreSQL
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathamMrana&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathamMrana&show_icons=true&theme=tokyonight&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=PrathamMrana&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=PrathamMrana&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamMrana&layout=compact&theme=tokyonight)
 

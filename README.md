@@ -1,4 +1,4 @@
-# Hi, I'm Pratham Rana 👋
+# 👋 Hi, I'm Pratham Rana
 
 **AI • Machine Learning • Data Science • Algorithms • Full Stack Development**
 
@@ -6,7 +6,7 @@ Building intelligent systems, solving complex problems, and developing scalable 
 
 ---
 
-## About Me
+## 🚀 About Me
 
 * Information Technology student passionate about **Artificial Intelligence and Machine Learning**
 * Strong foundation in **Data Structures & Algorithms**
@@ -15,7 +15,7 @@ Building intelligent systems, solving complex problems, and developing scalable 
 
 ---
 
-## Core Focus
+## 🧠 Core Focus
 
 ### Artificial Intelligence & Machine Learning
 
@@ -46,7 +46,7 @@ Building intelligent systems, solving complex problems, and developing scalable 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -62,7 +62,7 @@ Git • GitHub • REST APIs • Automation Workflows
 
 ---
 
-## Featured Projects
+## 📊 Featured Projects
 
 ### Customer Churn Prediction
 
@@ -112,17 +112,17 @@ React • Spring Boot • Java • PostgreSQL
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathamMrana\&show_icons=true\&theme=tokyonight)
+![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathamMrana&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PrathamMrana\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PrathamMrana&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamMrana\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamMrana&layout=compact&theme=tokyonight)
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 GitHub
 https://github.com/PrathamMrana

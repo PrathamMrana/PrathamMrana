@@ -1,21 +1,21 @@
 # Hi, I'm Pratham Rana 👋
 
-AI • Machine Learning • Data Science • Algorithms • Full Stack Development
+**AI • Machine Learning • Data Science • Algorithms • Full Stack Development**
 
-Building intelligent systems, solving complex problems, and developing scalable software that combines **data, intelligence, and engineering**.
+Building intelligent systems, solving complex problems, and developing scalable software powered by **data and machine learning**.
 
 ---
 
 ## About Me
 
-* Computer Science student passionate about **Artificial Intelligence and Machine Learning**
+* Information Technology student passionate about **Artificial Intelligence and Machine Learning**
 * Strong foundation in **Data Structures & Algorithms**
 * Interested in building **data-driven applications and intelligent systems**
-* Focused on developing projects that combine **AI, software engineering, and automation**
+* Focused on combining **AI with scalable software engineering**
 
 ---
 
-## Core Focus Areas
+## Core Focus
 
 ### Artificial Intelligence & Machine Learning
 
@@ -23,42 +23,42 @@ Building intelligent systems, solving complex problems, and developing scalable 
 * Unsupervised Learning
 * Artificial Neural Networks
 * Predictive Modeling
-* Model Evaluation & Optimization
+* Model Evaluation
 
 ### Data Science
 
-* Data Analysis
 * Exploratory Data Analysis (EDA)
-* Feature Engineering
 * Data Visualization
+* Feature Engineering
+* Statistical Analysis
 
-### Computer Science Fundamentals
+### Computer Science
 
 * Data Structures & Algorithms
 * Problem Solving
-* System Design Fundamentals
+* System Design
 
 ### Software Development
 
 * Full Stack Development
 * Backend APIs
-* Scalable System Design
+* Scalable Applications
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
 Python • Java • SQL • JavaScript
 
-### Machine Learning & Data
+**Machine Learning & Data**
 
 NumPy • Pandas • Matplotlib • Scikit-learn • TensorFlow
 
-### Development & Tools
+**Tools & Development**
 
-Git • GitHub • REST APIs • Automation Workflows • Cloud Integrations
+Git • GitHub • REST APIs • Automation Workflows
 
 ---
 
@@ -66,67 +66,46 @@ Git • GitHub • REST APIs • Automation Workflows • Cloud Integrations
 
 ### Customer Churn Prediction
 
-Machine learning system that predicts whether a bank customer will leave the bank using classification algorithms.
+Machine learning model predicting customer churn using classification algorithms.
 
-Key Features
-
-* Data preprocessing and feature scaling
-* Exploratory data analysis
-* Multiple model comparison
-* Model performance evaluation
-
-Models Used
+Models Implemented:
 
 * Artificial Neural Network
 * Logistic Regression
 * Random Forest
 
-Best Accuracy Achieved: **86.6%**
+Best Accuracy: **86.6%**
 
-Technologies: Python • Scikit-learn • TensorFlow • Matplotlib
+Tech: Python • Scikit-learn • TensorFlow • Matplotlib
 
 ---
 
 ### VoiceBook — AI Voice Booking Agent
 
-AI-powered voice assistant that automates appointment scheduling through natural conversation.
-
-Capabilities
-
-* Voice-based appointment booking
-* Real-time availability checks
-* Automated confirmations
-* AI-driven workflow automation
+AI-powered voice agent that automates appointment booking through natural conversation.
 
 Technologies
 Vapi AI • n8n • Twilio • Airtable • ElevenLabs • Cal.com
 
-🏆 Winner — Holboxathon 2025 (AI Hackathon)
+🏆 **Winner — Holboxathon 2025 AI Hackathon**
 
 ---
 
 ### TrustLens — Multi-Agent AI Code Review System
 
-AI-based system that analyzes codebases using multiple specialized agents to detect:
+AI-based system that analyzes code using multiple specialized agents to detect:
 
 * Security vulnerabilities
 * Logical errors
 * Code quality issues
 
-The system uses a **multi-agent orchestration architecture** to generate explainable and high-confidence code audits.
+The system uses **multi-agent orchestration for explainable AI code analysis**.
 
 ---
 
 ### Sales Reward Engine
 
-Enterprise-grade incentive tracking system for sales teams that calculates commissions and visualizes performance metrics.
-
-Features
-
-* Real-time sales analytics
-* Commission simulation engine
-* Deal lifecycle management
-* Role-based system access
+Enterprise-grade sales incentive tracking system with real-time analytics and commission simulations.
 
 Technologies
 React • Spring Boot • Java • PostgreSQL
@@ -137,17 +116,9 @@ React • Spring Boot • Java • PostgreSQL
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathamMrana\&show_icons=true\&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=PrathamMrana\&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamMrana\&layout=compact\&theme=tokyonight)
-
----
-
-## Interests
-
-* Artificial Intelligence systems
-* Machine learning applications
-* Data science and analytics
-* Intelligent automation
-* Scalable software architecture
 
 ---
 
@@ -157,4 +128,8 @@ GitHub
 https://github.com/PrathamMrana
 
 LinkedIn
-https://www.linkedin.com/in/p
+https://www.linkedin.com/in/pratham-rana-259355283/
+
+---
+
+Always exploring new ideas in **Artificial Intelligence, Machine Learning, and Data-Driven Systems**.
